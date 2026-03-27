@@ -357,14 +357,6 @@ const testimonials = [
     stars: 5
   },
   {
-    quote: "Yurt dışından yatırım yapmak istiyordum ve Elif Hanım tüm süreci İngilizce olarak mükemmel bir şekilde yönetti. Tapu işlemlerinden tutun, oturma iznine kadar her konuda destek aldım.",
-    quote_en: "I wanted to invest from abroad and Elif managed the entire process in English flawlessly. I received support on everything from title deed procedures to residence permits.",
-    name: "Michael Schmidt",
-    role: "Yatırımcı, Almanya",
-    role_en: "Investor, Germany",
-    stars: 5
-  },
-  {
     quote: "Altıntaş'ta işyerim için kiralık dükkan arayışımdayken Elif Hanım devreye girdi. Kısa sürede merkezi konumda, bütçeme tam uyan bir dükkan buldu. Kira sözleşmesi sürecinde de yanımda oldu, son derece memnun kaldım.",
     quote_en: "When I was looking for a shop to rent in Altıntaş, Elif stepped in. She quickly found a centrally located shop that perfectly fit my budget and supported me throughout the lease process.",
     name: "Fehmi Orhan",
